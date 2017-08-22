@@ -2,3 +2,5 @@ Git is a version control system.
 git is free software.
 git is a lj
 this is a file 
+
+wo ning yuan yongyou yi ke tou ming de xinling
